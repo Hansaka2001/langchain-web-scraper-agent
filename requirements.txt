@@ -1,0 +1,11 @@
+langchain
+langchain-google-genai
+langchain-community
+beautifulsoup4
+chromadb
+selenium
+webdriver_manager
+requests
+nest_asyncio
+sentence-transformers
+google-generativeai
